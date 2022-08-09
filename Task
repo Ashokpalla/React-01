@@ -1,0 +1,15 @@
+    Create a new component expense filter
+
+    Add an option html element with onchange event handler
+
+    use state function to set the state
+
+    inside on change event handler store the state
+
+    use props.onfilterchange function inside on change to send the state up
+
+    inside Expenses component Include Expense filter component and define handler for onfilterchange event.
+
+    Inside handler log the state passed up
+    
+    
